@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**Datenshi04/Datenshi04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/sp/v2/column-formatting.schema.json",
+  "elmType": "a",
+  "attributes": {
+    "href": "= 'https://apps.powerapps.com/play/e/default-e9bff946-54d8-43ac-8be3-d90cd4875a58/a/e49464e0-fb26-4d14-98da-8ab9e1ea97bb?tenantId=e9bff946-54d8-43ac-8be3-d90cd4875a58&itemID=' + [$ID]",
+    "target": "_blank"
+  },
+  "style": {
+    "background-color": "#0078d4",
+    "color": "white",
+    "padding": "4px 10px",
+    "border-radius": "4px",
+    "text-decoration": "none"
+  },
+  "children": [
+    {
+      "elmType": "span",
+      "txtContent": "View Docs"
+    }
+  ]
+}
